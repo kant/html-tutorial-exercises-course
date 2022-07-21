@@ -15,7 +15,7 @@ tutorial: "https://www.youtube.com/watch?v=9OB2RPWHYgw"
 
 ## 💡 Pistas:
 
-+ La estructura debería de verse algo asi:
++ La estructura debería de verse algo así:
 
 ```md
 <!DOCTYPE html>
